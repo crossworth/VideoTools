@@ -1,0 +1,6 @@
+{
+    "require": {
+        "google/apiclient": "^2.2",
+        "bandwidth-throttle/bandwidth-throttle": "^0.1.0"
+    }
+}
