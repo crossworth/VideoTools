@@ -9,4 +9,4 @@ Some features include:
 
 But there is one problem, the resume video upload its not working.
 To be honest it works, but the video will always fail to be converted on youtube end.
-Probabily we are sending some bytes twice when we try to resume.
+Probably we are sending some bytes twice when we try to resume.
